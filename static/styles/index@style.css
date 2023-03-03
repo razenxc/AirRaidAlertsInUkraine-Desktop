@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: #191C1D;
+}
+
+.app {
+    display: flex;
+    margin: 12px;
+}
+
+.leftSection {
+    margin-right: 12px;
+}
+
+.leftTopSideBlock {
+    background-color: #003641;
+    width: 338px;
+    height: 326px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
+.leftBottomSideBlock {
+    background-color: #003641;
+    width: 338px;
+    height: 66px;
+    border-radius: 10px;
+}
+
+.rightTopSideBlock {
+    background-color: #003641;
+    width: 326px;
+    height: 196px;
+    margin-bottom: 15px;border-radius: 10px;
+}
+
+.rightBottomSideBlock {
+    background-color: #003641;
+    width: 326px;
+    height: 195px;
+    border-radius: 10px;
+}
